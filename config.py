@@ -1,6 +1,6 @@
-from tg_bot.sample_config import Config
+from tg_bot.sample_config import config
 
-class Development(Config):
+class Development(config):
 
     OWNER_ID =  1511373882 # my telegram ID
 
